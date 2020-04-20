@@ -1,0 +1,8 @@
+github.com/karrick/gobp v1.2.3 h1:BEHDAcMN3weMqjAwUEgSD9UqAY9pq5hxS0mzaWrTvAQ=
+github.com/karrick/gobp v1.2.3/go.mod h1:XKQhVKzjmJmoYrYcU0ayG7k1WJLt56/DxIHxQVO0v24=
+github.com/karrick/gohm/v2 v2.17.0 h1:28wqrXMEqaPUwi3IC+8EoF9pJom3F+AGZ1hbw5fwr10=
+github.com/karrick/gohm/v2 v2.17.0/go.mod h1:dK3vap5/EXrpo20TWZL5NUcQTUEfyU5Rkm/YoM1lm0Y=
+github.com/karrick/golf v1.4.0 h1:9i9HnUh7uCyUFJhIqg311HBibw4f2pbGldi0ZM2FhaQ=
+github.com/karrick/golf v1.4.0/go.mod h1:qGN0IhcEL+IEgCXp00RvH32UP59vtwc8w5YcIdArNRk=
+github.com/karrick/gorill v1.10.2 h1:MtSaM3eGwxguM153R32jeslMMFZxnr0ZvNEWU6dnByk=
+github.com/karrick/gorill v1.10.2/go.mod h1:RlCfg3XIDNF2pbami04hiO2Yj7k8es4rIs3dJONvCs0=
