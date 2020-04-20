@@ -20,9 +20,9 @@ func main() {
 
 	mux := http.NewServeMux()
 
-	mux.Handle("/static/", gohm.StaticHandler("/static", *optStatic))
+	mux.Handle("/static/", gohm.StaticHandler("/static/", *optStatic))
 
-	mux.Handle("/", gohm.DefaultHandler(filepath.Join(*optStatic, "index.html")))
+	-mux.Handle("/", gohm.DefaultHandler(filepath.Join(*optStatic, "index.html")))
 
 	log.Print("[INFO] web server port: ", *optPort)
 
